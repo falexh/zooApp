@@ -1,2 +1,2 @@
 # zooApp
-Simple Application for Managing Animals in a Zoo 
+Simple Application for Managing Animals in a Zoo. 
